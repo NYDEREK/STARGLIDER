@@ -1,4 +1,5 @@
 # STARGLIDER
 ## Main Board
-![image](https://github.com/user-attachments/assets/b8b5eddd-9909-4bb6-ab0e-d4e6b1301e7f)
+![image](https://github.com/user-attachments/assets/088ab298-48d9-4e5b-b9b9-a8e928dfbec3)
+
 
