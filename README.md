@@ -1,7 +1,7 @@
 <h1>STARGLIDER MainBoard rev1 - Datasheet</h1>
 
 <h2>Main Board Features</h2>
-<img src="https://github.com/user-attachments/assets/a30c27bd-4a29-438a-85a8-927627a9a738" alt="Main Board Features" width="600">
+<img src="https://github.com/user-attachments/assets/6677b421-2b84-42e9-8078-9319c81048de" alt="Main Board Features" width="600">
 
 <ul>
   <li>STM32G474RET6 microcontroller in LQFP64 package</li>
