@@ -25,7 +25,8 @@ Thanks to the built-in “Cordic” it is able to easily calculate flight path &
 </p>
 
 <h2>Main Board Pinout</h2>
-<img src="https://github.com/user-attachments/assets/31e9f0fa-e92a-414a-b9b9-8bb9ca4521b5" alt="Main Board Pinout" width="600">
+<img src="https://github.com/user-attachments/assets/32504bdd-b91b-4b3a-a530-6b0dd5c1b1e3" alt="Main Board Pinout" width="600">
+
 <p>
 The Main Board provides 6 different connectors for GPIO, ADC, PWM, Communication, and one connector for Power.  
 Input voltage range: <strong>5 – 9 V</strong>.  
